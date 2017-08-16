@@ -1,0 +1,39 @@
+Download the latest version at http://personales.upv.es/luileito/chiext/
+
+The template relies on the following packages:
+ * hyperref: http://www.ctan.org/tex-archive/macros/latex/contrib/hyperref/
+ * caption: http://www.ctan.org/tex-archive/macros/latex/contrib/caption/
+ * url: http://www.ctan.org/tex-archive/macros/latex/contrib/url/
+ * titlesec: http://www.ctan.org/tex-archive/macros/latex/contrib/titlesec/
+ * footmisc: http://www.ctan.org/tex-archive/macros/latex/contrib/footmisc/
+ * bibspacing: http://dcwww.camd.dtu.dk/~schiotz/comp/LatexTips/bibspacing.sty
+ * balance: http://www.tex.ac.uk/cgi-bin/texfaq2html?label=balance
+
+Note that excepting bibspacing and balance, any modern LaTeX system should 
+include the rest of packages.
+
+Please be sure that you have all dependencies before compiling the provided 
+examples. You can grab a snapshot of these dependencies here: 
+http://personales.upv.es/luileito/chiext/files/chi-ext-dependencies.zip
+
+Send your feedback to Luis A. Leiva <llt@acm.org>
+
+
+Updates:
+
+[Jul 30, 2014] Added in-margin figure example
+[Jul 15, 2011] Hyperref colors.
+Colors for citations (red), URLs (pink), and cross-references (blue) 
+were set on purpose to remark that they can be clickable (navigable). 
+Of course you can set them to whatever color; e.g., set the hyperref options 
+'citecolor=black, linkcolor=black, urlcolor=black'; or even 'colorlinks=false'
+to display a bounding box instead. There are two ways of changing this behavior:
+ 1. In your LaTeX file. Just type in the preamble:
+ \hypersetup{citecolor=black,linkcolor=black,urlcolor=black}
+ 2. Editing the template: see lines 183--193 of chi-ext.cls.
+
+[Dec 9, 2011] Bibliography styles.
+Previously, references in the examples were formated by using the (standard) 
+abbrv BST style. Now the ACM Transactions bibliography style is used instead, as
+in the MS Word CHI Archival and EA templates.
+
