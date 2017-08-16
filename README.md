@@ -6,8 +6,8 @@ ACM Interactive Surfaces and Spaces ([ACM ISS 2017](https://iss2017.acm.org/)), 
 
 ## Information
 
-* [ISS 2017 Paper (Transfered to Poster)](https://github.com/MIMBCD-UI/iss-2017-paper) ([ShareLaTeX](https://www.sharelatex.com/project/593e6a22fd72fb464c1ec64d))
-* [ISS 2017 Poster (Transfered from Paper)](https://github.com/MIMBCD-UI/iss-2017-poster) ([ShareLaTeX](https://www.sharelatex.com/project/59945aa2999c5e65ddf8099e))
+* [ISS 2017 Paper (Transfered to Posters)](https://github.com/MIMBCD-UI/iss-2017-paper) ([ShareLaTeX](https://www.sharelatex.com/project/593e6a22fd72fb464c1ec64d))
+* [ISS 2017 Extended Abstract (Transfered from Papers)](https://github.com/MIMBCD-UI/iss-2017-poster) ([ShareLaTeX](https://www.sharelatex.com/project/59945aa2999c5e65ddf8099e))
 * [Prototype](http://ec2-52-14-244-33.us-east-2.compute.amazonaws.com/)
    * [Server 1](https://github.com/MIMBCD-UI/server-1)
    * [Server 2](https://github.com/MIMBCD-UI/server-2)
