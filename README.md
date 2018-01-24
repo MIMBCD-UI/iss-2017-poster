@@ -1,6 +1,8 @@
 # ISS 2017 Poster
 
-<img src="assets/iss2017.jpg" />
+<a href="https://iss2017.acm.org/" title="ISS'17" target="_blank">
+  <img src="assets/iss2017.jpg" alt="iss2017"/>
+</a>
 
 ACM Interactive Surfaces and Spaces ([ACM ISS 2017](https://iss2017.acm.org/)), formerly known as  the ACM International Conference on Interactive Tabletops and  Surfaces (ITS), welcomes original, high-quality research and industry  contributions that advance the state-of-the-art in the area of  interactive surfaces and spaces (including tabletops, large displays,  mobile, and mini devices). We embrace innovations in a wide variety of  areas including design, software, hardware, understanding of use, and  applications or deployments of interactive surfaces. The [paper](https://github.com/MIMBCD-UI/iss-2017-paper) was transfered from [Papers](https://github.com/MIMBCD-UI/iss-2017-paper) to [Posters](https://github.com/MIMBCD-UI/iss-2017-poster).
 
@@ -40,37 +42,71 @@ A fundamental step in medical diagnosis for patient follow-up relies on the abil
 ## Sponsors
 
 <span class="image">
-  <a href="http://www.fct.pt/" title="FCT">
-    <img src="assets/fct.png" alt="fct" />
+  <a href="http://www.fct.pt/" title="FCT" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/fct_footer.png" alt="fct" />
   </a>
 </span>
 <span class="image">
-  <a href="https://www.fccn.pt/en/" title="FCCN">
-    <img src="assets/fccn.png" alt="fccn" />
+  <a href="https://www.fccn.pt/en/" title="FCCN" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/fccn_footer.png" alt="fccn" />
   </a>
 </span>
 <span class="image">
-  <a href="https://www.ulisboa.pt/en/" title="ULisboa">
-    <img src="assets/ulisboa.png" alt="ulisboa" />
+  <a href="https://www.ulisboa.pt/en/" title="ULisboa" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/ulisboa_footer.png" alt="ulisboa" />
   </a>
 </span>
 <span class="image">
-  <a href="http://tecnico.ulisboa.pt/" title="IST">
-    <img src="assets/IST_C_RGB_POS.png" alt="ist" />
+  <a href="http://tecnico.ulisboa.pt/" title="IST" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/ist_c_rgb_pos_footer.png" alt="ist" />
+  </a>
+</span>
+
+## Departments
+
+<span class="image">
+  <a href="http://dei.tecnico.ulisboa.pt" title="DEI" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/dei_footer.png" alt="dei" />
   </a>
 </span>
 <span class="image">
-  <a href="http://dei.tecnico.ulisboa.pt" title="DEI">
-    <img src="assets/DEI_RGB.png" alt="dei" />
+  <a href="http://deec.tecnico.ulisboa.pt" title="DEEC" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/deec_footer.png" alt="dei" />
+  </a>
+</span>
+
+## Laboratories
+
+<span class="image">
+  <a href="http://www.inesc-id.pt/" title="INESC-ID" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/inesc-id_footer.png" alt="inesc-id" />
   </a>
 </span>
 <span class="image">
-  <a href="http://www.inesc-id.pt/" title="INESC-ID">
-    <img src="assets/logo-inesc-id.png" alt="inesc-id" />
+  <a href="http://welcome.isr.tecnico.ulisboa.pt/" title="ISR" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/isr-lisboa_footer.png" alt="isr" />
   </a>
 </span>
 <span class="image">
-  <a href="http://welcome.isr.tecnico.ulisboa.pt/" title="ISR">
-    <img src="assets/logo_200.png" alt="isr" />
+  <a href="http://welcome.isr.tecnico.ulisboa.pt/projects_cat/sipg/" title="SIGP" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/sigp_footer.png" alt="sigp"/>
+  </a>
+</span>
+<span class="image">
+  <a href="http://larsys.pt/" title="LARSys" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/larsys_footer.png" alt="larsys"/>
+  </a>
+</span>
+
+## Countries
+
+<span class="image">
+  <a href="https://europa.eu/" title="EU" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/eu_footer.png" alt="eu" />
+  </a>
+</span>
+<span class="image">
+  <a href="https://www.portugal.gov.pt/" title="Portugal" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/pt_footer.png" alt="pt"/>
   </a>
 </span>
