@@ -39,6 +39,30 @@ A fundamental step in medical diagnosis for patient follow-up relies on the abil
 
 [Jacinto Nascimento](http://users.isr.ist.utl.pt/~jan/)
 
+## Citing
+
+We kindly ask **Scientific Research** and **Clinical Studies** that make use of [MIMBCD-UI](https://mimbcd-ui.github.io/) to cite [MIMBCD-UI](https://mimbcd-ui.github.io/) in their associated [publications](https://www.researchgate.net/project/MIMBCD-UI). Similarly, we ask **Open Source** and **Closed Source** products that make use of [MIMBCD-UI](https://mimbcd-ui.github.io/) to warn us about this use. You can cite this work using the following BibTeX entry:
+
+```
+@inproceedings{Calisto:2017:TTM:3132272.3134111,
+ author = {Calisto, Francisco M. and Ferreira, Alfredo and Nascimento, Jacinto C. and Gon\c{c}alves, Daniel},
+ title = {Towards Touch-Based Medical Image Diagnosis Annotation},
+ booktitle = {Proceedings of the 2017 ACM International Conference on Interactive Surfaces and Spaces},
+ series = {ISS '17},
+ year = {2017},
+ isbn = {978-1-4503-4691-7},
+ location = {Brighton, United Kingdom},
+ pages = {390--395},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/3132272.3134111},
+ doi = {10.1145/3132272.3134111},
+ acmid = {3134111},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Human-Computer Interaction, Interaction Design, Medical Image Diagnosis, Medical Visualization, Touch-Based},
+} 
+```
+
 ## Sponsors
 
 <span class="image">
